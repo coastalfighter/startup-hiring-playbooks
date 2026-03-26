@@ -1,4 +1,5 @@
 # Startup Hiring Playbooks
+Added structured hiring frameworks
 
 Practical hiring frameworks for startups scaling teams from 0 → 100 employees.
 
