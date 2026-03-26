@@ -43,3 +43,5 @@ Tracking these ensures:
 * Better decisions
 * Faster hiring
 * Higher quality hires
+
+## Update Metrics
